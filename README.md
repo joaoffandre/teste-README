@@ -26,4 +26,3 @@ Imagem do Shaka com link do youtube
 git clone https://nome-usuario/nome-repositorio.git
 
 ```
-
